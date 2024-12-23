@@ -881,6 +881,9 @@ justify-content: center;
   .home{
     background-position: center;
   }
+  .home h5{
+    font-size: 10px;
+  }
   .nav .navl{
   display: none;
   }
