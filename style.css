@@ -877,7 +877,7 @@ justify-content: center;
   justify-content: space-between;
 }
 
-@media screen and (max-width: 380px) {
+@media  (max-width: 470px) {
   .home{
     background-position: center;
   }
